@@ -24,11 +24,11 @@
        background-color:pink;
       }
       </style> 
-  <img src="srisai1.txt" alt="" width="200px" height="300px"> 
-  <img src="srisai2.txt" alt="" width="200px" height="300px"> 
-  <img src="srisai3.txt" alt="" width="200px" height="300px"> 
-  <img src="srisai4.txt" alt="" width="200px" height="300px"> 
-  <img src="srisai5.txt" alt="" width="200px" height="300px"> 
+  <img src="srisai1.jpg" alt="" width="200px" height="300px"> 
+  <img src="srisai2.jpg" alt="" width="200px" height="300px"> 
+  <img src="srisai3.jpg" alt="" width="200px" height="300px"> 
+  <img src="srisai4.jpg" alt="" width="200px" height="300px"> 
+  <img src="srisai5.jpg" alt="" width="200px" height="300px"> 
   <div id="s1" class="carousel slide" data-ride="carousel"> 
    <ol class="carousel-indicators"> 
     <li data-target="#s1" data-slide-to="0" class="active"></li> 
