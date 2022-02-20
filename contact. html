@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <title> SRI SAI SALON </title> 
+ </head> 
+ <body> <!-- Required meta tags --> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <!-- Bootstrap CSS --> 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> 
+  <nav class="navbar navbar-expand-lg navbar-dark bg-yellow"> <a class="navbar-brand" href="#"> <img src="logopic.txt" alt="" width="10px" height="10px"> SRI SAI SALON(only for ladies)</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#n1" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" &gt; <span> 
+    <div class="collapse navbar-collapse" id="n1"> <a class="navbar-brand" href="#"> </a> 
+     <ul class="navbar-nav ml-auto"> <a class="navbar-brand" href="#"> </a> 
+      <li class="nav-item active"><a class="navbar-brand" href="#"> </a><a class="nav-link" href="home.html">Home</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="about.html">About</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="services.html">Services</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="products.html">Products</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="contact.html">Contact</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="home services.html">Home services</a> </li> 
+      <li class="nav-item"> <a class="nav-link" href="review.html">Reviews</a> </li> 
+     </ul> 
+    </div> </button> 
+  </nav> 
+  <style>
+     body{
+       background-color:pink;
+      
+     } 
+     </style> 
+  <img src="contactjpg.txt" alt="" width="200px" height="300px"> 
+  <p> call at:9467xxxxxx</p> 
+  <p> connect at: srisaisalon@gmail.com</p> 
+  <p>Location:Sri sai salon</p> 
+  <p> Ganesh nagar, uppal,</p> 
+  <p> beside bustop and opposite to Berusalliam chruch, </p> 
+  <p> Hyderabd, 500074</p> 
+  <form> 
+   <fieldset> <legend align="center">Book Appointment</legend> <label for="abc">Firstname</label> 
+    <input type="text" placeholder="enter your firstname" id="abc"> <label for="num">mobile number</label> 
+    <input type="text" id="num" placeholder="enter mobile number" pattern="{0-9[10]}"> Select services 
+    <div class="row"> 
+     <div class="col"> 
+      <div class="card"> 
+       <div class="card body"> 
+        <div class="card title"> <b>Threading</b> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> Eyebrows------70 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> Upperlips------60 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> lower lip------70 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> Forehead------90 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> Neck------100 
+         </div> 
+        </div> 
+        <div class="row"> 
+         <div class="col"> 
+          <input type="radio"> Full face------170 
+         </div> 
+        </div> 
+       </div> 
+       <div class="row"> 
+        <div class="col"> 
+         <div class="card"> 
+          <div class="card body"> 
+           <div class="card title"> <b> Waxing</b> 
+            <div class="row"> 
+             <div class="col"> 
+              <input type="radio"> Half arms------230 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col"> 
+              <input type="radio"> Full legs------270 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col"> 
+              <input type="radio"> Half legs------190 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col"> 
+              <input type="radio"> Face------300 
+             </div> 
+            </div> 
+            <div class="row"> 
+             <div class="col"> 
+              <input type="radio"> Full body------1700 
+             </div> 
+            </div> 
+           </div> 
+           <div class="row"> 
+            <div class="col"> 
+             <div class="card"> 
+              <div class="card body"> 
+               <div class="card title"> <b>Body bright</b> 
+               </div> 
+               <div class="row"> 
+                <div class="col"> 
+                 <input type="radio"> Face, Neck------375 
+                </div> 
+               </div> 
+               <div class="row"> 
+                <div class="col"> 
+                 <input type="radio"> Full back------650 
+                </div> 
+               </div> 
+               <div class="row"> 
+                <div class="col"> 
+                 <input type="radio"> Full hands------670 
+                </div> 
+               </div> 
+               <div class="row"> 
+                <div class="col"> 
+                 <input type="radio"> Full body------2900 
+                </div> 
+               </div> 
+               <div class="row"> 
+                <div class="col"> 
+                 <div class="card"> 
+                  <div class="card body"> 
+                   <div class="card title"> <b>Makeups</b> 
+                   </div> 
+                   <div class="row"> 
+                    <div class="col"> 
+                     <input type="radio"> Krgolon makeup------4700 
+                    </div> 
+                   </div> 
+                   <div class="row"> 
+                    <div class="col"> 
+                     <input type="radio"> Mac------6500 
+                    </div> 
+                   </div> 
+                   <div class="row"> 
+                    <div class="col"> 
+                     <input type="radio"> Semi bridal------7000 
+                    </div> 
+                   </div> 
+                   <div class="row"> 
+                    <div class="col"> 
+                     <input type="radio"> Bridal ------10000 
+                    </div> 
+                   </div> 
+                   <div class="row"> 
+                    <div class="col"> 
+                     <div class="card"> 
+                      <div class="card body"> 
+                       <div class="card title"> <b>Hands&amp;Foot care</b> 
+                       </div> 
+                       <div class="row"> 
+                        <div class="col"> 
+                         <input type="radio"> Change of polish------150 
+                        </div> 
+                       </div> 
+                       <div class="row"> 
+                        <div class="col"> 
+                         <input type="radio"> Cut,clean&amp; polish------250 
+                        </div> 
+                       </div> 
+                       <div class="row"> 
+                        <div class="col"> 
+                         <input type="radio"> Cut,clean&amp; french polish------670 
+                        </div> 
+                       </div> 
+                       <div class="row"> 
+                        <div class="col"> 
+                         <div class="card"> 
+                          <div class="card body"> 
+                           <div class="card title"> <b>Manicure&amp;Pedicure</b> 
+                           </div> 
+                           <div class="row"> 
+                            <div class="col"> 
+                             <input type="radio"> Classic------300 
+                            </div> 
+                           </div> 
+                           <div class="row"> 
+                            <div class="col"> 
+                             <input type="radio"> Spear mint radiance------400 
+                            </div> 
+                           </div> 
+                           <div class="row"> 
+                            <div class="col"> 
+                             <input type="radio"> Spa immerse------600 
+                            </div> 
+                           </div> 
+                           <div class="row"> 
+                            <div class="col"> 
+                             <div class="card"> 
+                              <div class="card body"> 
+                               <div class="card title"> <b>Hair cuts</b> 
+                               </div> 
+                               <div class="row"> 
+                                <div class="col"> 
+                                 <input type="radio"> Layer cut-----420 
+                                </div> 
+                               </div> 
+                               <div class="row"> 
+                                <div class="col"> 
+                                 <input type="radio"> Feather cut------550 
+                                </div> 
+                               </div> 
+                               <div class="row"> 
+                                <div class="col"> 
+                                 <input type="radio"> Straight\U-cut -----210 
+                                </div> 
+                               </div> 
+                               <div class="row"> 
+                                <div class="col"> 
+                                 <div class="card"> 
+                                  <div class="card body"> 
+                                   <div class="card title"> <b>Facials</b> 
+                                   </div> 
+                                   <div class="row"> 
+                                    <div class="col"> 
+                                     <input type="radio"> Pearl------350 
+                                    </div> 
+                                   </div> 
+                                   <div class="row"> 
+                                    <div class="col"> 
+                                     <input type="radio"> Golden------650 
+                                    </div> 
+                                   </div> 
+                                   <div class="row"> 
+                                    <div class="col"> 
+                                     <input type="radio"> Diamond------870 
+                                    </div> 
+                                   </div> 
+                                   <div class="row"> 
+                                    <div class="col"> 
+                                     <div class="card"> 
+                                      <div class="card body"> 
+                                       <div class="card title"> <b>Packs</b> 
+                                       </div> 
+                                       <div class="row"> 
+                                        <div class="col"> 
+                                         <input type="radio"> D-Tan pack-----230 
+                                        </div> 
+                                       </div> 
+                                       <div class="row"> 
+                                        <div class="col"> 
+                                         <input type="radio"> Bleach------2100 
+                                        </div> 
+                                       </div> 
+                                       <div class="row"> 
+                                        <div class="col"> 
+                                         <input type="radio"> Whitening------2500 
+                                        </div> 
+                                       </div> 
+                                       <div class="row"> 
+                                        <div class="col"> 
+                                         <div class="card"> 
+                                          <div class="card body"> 
+                                           <div class="card title"> <b>Mehandi</b> 
+                                           </div> 
+                                           <div class="row"> 
+                                            <div class="col"> 
+                                             <input type="radio"> Single hand------150 
+                                            </div> 
+                                           </div> 
+                                           <div class="row"> 
+                                            <div class="col"> 
+                                             <input type="radio"> Double hands------250 
+                                            </div> 
+                                           </div> 
+                                           <div class="row"> 
+                                            <div class="col"> 
+                                             <input type="radio"> 2 hands&amp;legs------670 
+                                            </div> 
+                                           </div> <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS --> Service time 
+                                           <input type="radio" name="xyz">At parlour 
+                                           <input type="radio" name="xyz">At home <label for="num">Booking time <input type="text" id="num" placeholder="enter the timings"><br> <input type="submit" value="submit"> <!-- Optional JavaScript --> <!-- jQuery first, then Popper.js, then Bootstrap JS --> <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> </label> 
+                                          </div> 
+                                         </div> 
+                                        </div> 
+                                       </div> 
+                                      </div> 
+                                     </div> 
+                                    </div> 
+                                   </div> 
+                                  </div> 
+                                 </div> 
+                                </div> 
+                               </div> 
+                              </div> 
+                             </div> 
+                            </div> 
+                           </div> 
+                          </div> 
+                         </div> 
+                        </div> 
+                       </div> 
+                      </div> 
+                     </div> 
+                    </div> 
+                   </div> 
+                  </div> 
+                 </div> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </fieldset> 
+  </form> 
+ </body>
+</html>
